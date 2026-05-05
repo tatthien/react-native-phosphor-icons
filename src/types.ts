@@ -1,6 +1,6 @@
 import { StyleProp, ViewStyle } from 'react-native'
 
-export type IconWeight = 'regular' | 'fill' | 'bold'
+export type IconWeight = 'thin' | 'light' | 'regular' | 'fill' | 'bold'
 
 export type IconProps = {
   color?: string

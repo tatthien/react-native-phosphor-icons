@@ -5,6 +5,8 @@ import { transform } from "@svgr/core";
 import { pascalCase } from "change-case";
 
 const weights = {
+  thin: "thin",
+  light: "light",
   regular: "regular",
   fill: "fill",
   bold: "bold",
